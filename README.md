@@ -1,5 +1,5 @@
 # uofw-assignments
-University of Waterloo Data Science certificate program - assignments - jupyter notebooks
+**University of Waterloo Data Science certificate program - assignments - jupyter notebooks**
 
 ### Assignment 1 (assignment1_JBungay - Jupyter Notebook.pdf).  Grade 100%
 ```
